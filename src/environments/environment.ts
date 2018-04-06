@@ -5,6 +5,6 @@
 //baseUrl: 'http://localhost:8080',
 
 export const environment = {
-  production: false
+  production: false,
   baseUrl: 'http://todoapp-services-marendo.193b.starter-ca-central-1.openshiftapps.com/',
 };
